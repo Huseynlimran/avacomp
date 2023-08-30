@@ -306,7 +306,7 @@ button {
 }
 
 .sign_btn a:hover {
-     color: #0aec98;
+     color: #e500a4;
 }
 
 
@@ -336,6 +336,9 @@ button {
      font-weight: bold;
      color: #fcfcfc;
      font-size: 10px;
+}
+.asus{
+     width: 100%;
 }
 .header {
      width: 100%;
@@ -410,10 +413,11 @@ button {
      display: inline-block;
      transition: ease-in all 0.5s;
      border-radius: 15px;
+     margin-top:7px;
 }
 
 .text-bg a:hover {
-     background-color: #2bcc91;
+     background-color: #e500a4;
      color: #fff;
      transition: ease-in all 0.5s;
      border-radius: 26px;
@@ -514,6 +518,8 @@ font-size: 21px;
      background: #000;
      color: #fff;
      border-radius: 15px;
+     margin-top: 35px;
+
 }
 
 .about .about_box .read_more:hover {
@@ -861,6 +867,10 @@ font-size: 21px;
           backdrop-filter: blur(2em);
           -webkit-backdrop-filter: blur(2em);
      }
+   }
+
+   .cnt{
+     background-color: #e500a4;
    }
 
 
