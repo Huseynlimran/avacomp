@@ -218,7 +218,7 @@
         display: inherit !important;
         padding: 0;
         width: 100%;
-        margin-top: -45px;
+        margin-top: -75px;
     }
     .navigation .navbar-collapse {
         background: #2bcc91;
@@ -231,7 +231,7 @@
     }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
-        color: #000;
+        color: #ffffff;
     }
     .navigation.navbar-dark .navbar-toggler {
         float: right;
