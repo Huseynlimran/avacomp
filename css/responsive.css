@@ -234,6 +234,9 @@
         margin-right: 20px;
         z-index: 999;
     }
+    .cont_call h3{
+        font-size: 10px;
+    }
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
         color: #ffffff;
@@ -243,6 +246,7 @@
         margin-right: 2px;
         border: inherit;
     }
+    
     .testimonial_box {
         padding: 0px 19px 40px 20px;
     }
