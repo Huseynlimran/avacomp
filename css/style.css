@@ -178,6 +178,10 @@ img {
      border-color: #ffffff !important;
      box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
+.number{
+     margin-bottom: 0px;
+     padding-bottom: 0px;
+}
 
 .navbar-form input {
      border: none !important;
@@ -333,11 +337,15 @@ button {
 }
 
 .since {
-     font-weight: bold;
-     color: #fcfcfc;
-     font-size: 10px;
+     color: #ffffff;
+     font-size: 56px;
 }
-
+.logoavafooter{
+     width: 200px;
+}
+.since{
+     font-size: 15px;
+}
 .asus {
      width: 100%;
 }
@@ -822,17 +830,27 @@ padding: 0px;}
 /** footer **/
 
 .multi {
-     color: #e500a4;
+     color: #d0d0d0;
      font-size: 40px;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+}
+.ava{
+     margin-bottom: 40px;
 }
 
 .footer {
      border-top: #000 solid 1px;
      font-family: Poppins;
-     background: #fff;
-     padding-top: 50px;
+     background: #000000;
+     padding-bottom: 15px;
+}
+.footer ul li {
+     color: white;
+     font-size: 18px;
+}
+.footer i{
+     margin-right: 5px;
+     color: rgb(103, 103, 103)
 }
 
 .cont {
@@ -843,14 +861,14 @@ padding: 0px;}
 }
 
 .cont h3 {
-     color: #0c0c0e;
+     color: #ffffff;
      font-size: 37px;
      line-height: 55px;
      font-weight: bold;
 }
 
 .cont_call h3 {
-     color: #0c0c0e;
+     color: #fefeff;
      font-size: 24px;
      line-height: 60px;
      font-weight: bold;
@@ -858,7 +876,6 @@ padding: 0px;}
 
 
 .copyright {
-     margin-top: 43px;
      padding: 20px 0px;
      background-color: #23262d;
 }

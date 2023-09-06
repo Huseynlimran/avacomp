@@ -179,6 +179,11 @@
         font-size: 35px;
         line-height: 44px;
     }
+    .flexnav{
+        display: flex;
+        align-items: center;
+        height: 20vh;
+    }
 
     .text-img h3 {
         display: none;
@@ -229,7 +234,7 @@
         display: inherit !important;
         padding: 0;
         width: 100%;
-        margin-top: -75px;
+        margin-top: -90px;
     }
     .navigation .navbar-collapse {
         background: #2bcc91;
@@ -264,10 +269,19 @@
     .carousel-control-prev-icon {
         display: none;
     }
+    .multi{
+        font-size: 26px;
+    }
     .cont_call h3 {
         font-size:25px;
         line-height: 49px;
     }
+    .footer{
+        padding-top: 30px;
+    }
+    .logoavafooter{
+        width: 100px;
+   }
 }
 
     
