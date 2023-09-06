@@ -444,8 +444,10 @@ button {
      margin: 0px;
 }
 
-.text-img figure img {
+.text-img img {
      width: 100%;
+     max-width: 600px;
+     height: auto;
 }
 
 .text-img figure {
@@ -495,7 +497,9 @@ padding: 0px;}
 .d_flex {
      display: flex;
      align-items: center;
+     justify-content: space-between;
      flex-wrap: wrap;
+     padding-top: 70px;
 }
 .banner_main{
      padding-top: 70px;
@@ -844,6 +848,7 @@ padding: 0px;}
      background: #000000;
      padding-bottom: 15px;
 }
+
 .footer ul li {
      color: white;
      font-size: 18px;

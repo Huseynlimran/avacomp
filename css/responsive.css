@@ -197,9 +197,7 @@
         font-size: 40px;
         line-height: 59px;
     }
-    .text-bg {
-        padding-top: 70px;
-    }
+   
     .cont h3 {
         font-size: 30px;
         line-height: 45px;
@@ -214,6 +212,7 @@
     .two_box .d_flex{
         display: flex;
         flex-direction: column-reverse;
+        padding-top: 0px;
     }
     .offer {
         font-size: 50px;
