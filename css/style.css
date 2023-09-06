@@ -467,8 +467,7 @@ button {
 
 
 .padding_right1 {
-     padding-right: 0;
-}
+padding: 0px;}
 
 .titlepage {
      text-align: center;
@@ -839,6 +838,9 @@ button {
 .cont {
      text-align: left;
 }
+.map{
+     width: 100%;
+}
 
 .cont h3 {
      color: #0c0c0e;
@@ -849,7 +851,7 @@ button {
 
 .cont_call h3 {
      color: #0c0c0e;
-     font-size: 30px;
+     font-size: 24px;
      line-height: 60px;
      font-weight: bold;
 }
@@ -905,9 +907,7 @@ button {
      background-color: transparent;
 }
 
-.number {
-     font-size: 2px;
-}
+
 
 
 /** end footer **/

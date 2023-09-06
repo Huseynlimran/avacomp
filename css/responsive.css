@@ -166,8 +166,14 @@
         float: left;
     }
     .text-bg h1 {
-        font-size: 38px;
+        font-size: 28px;
         line-height: 55px;
+    }
+    .text-bg strong {
+        font-size: 1.4rem;
+    }
+    .text-bg{
+        padding-top: 15px;
     }
     .text-bg span {
         font-size: 35px;
@@ -187,7 +193,7 @@
         line-height: 59px;
     }
     .text-bg {
-        padding-top: 130px;
+        padding-top: 70px;
     }
     .cont h3 {
         font-size: 30px;
@@ -259,7 +265,7 @@
         display: none;
     }
     .cont_call h3 {
-        font-size: 35px;
+        font-size:25px;
         line-height: 49px;
     }
 }
